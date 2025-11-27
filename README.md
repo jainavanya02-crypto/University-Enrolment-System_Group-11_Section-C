@@ -16,7 +16,7 @@ All the data which we have used in sql tables are in
 .xlsx files:
 
 STUDENT DETAILS
-Group 9
+Group 11
 Avanya Jain (341129)
 Kartik Sood (341128)
 Eena Hooda (341141)
